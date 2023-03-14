@@ -2,6 +2,7 @@
   
 https://www.brainsight.tech
 
+- Demoday : https://www.youtube.com/watch?v=cRNy1-rTXYg
 
 ## 🧐 Deployed apps
 - FastAPI (RestAPI using Postgresdb): https://api.brainsight.tech/docsapi.brainsight.tech/docs
