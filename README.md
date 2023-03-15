@@ -1,8 +1,15 @@
-# <p align="center">Brainsight: Alzheimer prediction through CNN - Deep learning model</p>
+# Bloc 6
+## Direction-de-projets-de-gestion-de-donnees
+# Brainsight: Alzheimer prediction through CNN - Deep learning model
   
-https://www.brainsight.tech
+Website: https://www.brainsight.tech
 
-- Demoday : https://www.youtube.com/watch?v=cRNy1-rTXYg
+API: https://api.brainsight.tech/docs
+
+Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
+
+Presentation: pdf file "BrainSight - DemoDay_version_14_01_2023.pdf"
+
 
 ## 🧐 Deployed apps
 - FastAPI (RestAPI using Postgresdb): https://api.brainsight.tech/docsapi.brainsight.tech/docs
