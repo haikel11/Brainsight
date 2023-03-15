@@ -11,7 +11,7 @@ Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
 video link : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 
 
-## 🧐 Deployed apps
+## Deployed apps
 - FastAPI (RestAPI using Postgresdb): https://api.brainsight.tech/docsapi.brainsight.tech/docs
 - Traefik (Reverse proxy)
 - MinioS3
@@ -20,13 +20,13 @@ video link : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 - Nginx (website hosting)
         
 
-## 🛠️ Tech Stack
+## Tech Stack
 - python
 - pandas
 - scikit-learn
 - tensorflow (custom CNN model)
     
-## 🙇 Authors
+## Authors
 #### Laurent
 - [github](https://github.com/lnilluv)
 - [linkedin](https://www.linkedin.com/in/laurent-vullin/) 
