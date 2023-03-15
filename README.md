@@ -10,8 +10,6 @@ Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
 
 video link : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 
-Presentation: pdf file "BrainSight - DemoDay_version_14_01_2023.pdf"
-
 
 ## 🧐 Deployed apps
 - FastAPI (RestAPI using Postgresdb): https://api.brainsight.tech/docsapi.brainsight.tech/docs
