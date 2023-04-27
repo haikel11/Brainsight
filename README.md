@@ -31,13 +31,13 @@ video link : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 - [github](https://github.com/lnilluv)
 - [linkedin](https://www.linkedin.com/in/laurent-vullin/) 
 #### Feriel
-- [github](https://github.com/lnilluv)
-- [linkedin](https://www.linkedin.com) 
+- [github](https://github.com/feeMdj)
+- [linkedin](https://www.linkedin.com/in/ferielhamedi/) 
 #### Alexon
-- [github](https://github.com/lnilluv)
+- [github](https://github.com/Alexon1999)
 - [linkedin](https://www.linkedin.com/in/alexon-uthayakumar-9361221a2/) 
 #### Yuliya
-- [github](https://github.com/lnilluv)
+- [github](https://github.com/YuliyaSheichenka)
 - [linkedin](https://www.linkedin.com/in/yuliya-sheichenka-6568a653/) 
 #### Haikel
 - [github](https://github.com/lnilluv)
