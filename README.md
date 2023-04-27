@@ -3,12 +3,9 @@
 # Brainsight: Alzheimer prediction through CNN - Deep learning model
   
 Website: https://www.brainsight.tech
-
 API: https://api.brainsight.tech/docs
-
 Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
 
-video link : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 
 
 ## Deployed apps
