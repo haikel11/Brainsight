@@ -6,9 +6,7 @@ Website: https://www.brainsight.tech
 
 API: https://api.brainsight.tech/docs
 
-Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
-
-
+Link of the demonstration : https://share.vidyard.com/watch/MmPadX9Cx8CdLvHkT1LCny?
 
 ## Deployed apps
 - FastAPI (RestAPI using Postgresdb): https://api.brainsight.tech/docsapi.brainsight.tech/docs
